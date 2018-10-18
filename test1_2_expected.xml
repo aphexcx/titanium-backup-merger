@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<threads xmlns="http://www.titaniumtrack.com/ns/titanium-backup/messages" count="2">
+    <thread address="+972547264450">
+        <sms msgBox="inbox" date="2013-11-29T16:01:49.417Z" dateSent="2013-11-29T16:01:47.000Z" locked="false"
+             seen="true" read="true" serviceCenter="+972500200202" address="+972222222222" encoding="plain">הלני המלכה
+        </sms>
+        <sms msgBox="inbox" date="2013-11-29T16:01:49.417Z" dateSent="2013-11-29T16:01:47.000Z" locked="false"
+             seen="true" read="true" serviceCenter="+972500200202" address="+972222222222" encoding="plain">מלכה
+        </sms>
+    </thread>
+    <thread address="+19999999999">
+        <sms msgBox="inbox" date="2017-03-09T16:47:55.989Z" dateSent="2017-03-09T16:47:52.000Z" locked="false" seen="true"
+             read="true" serviceCenter="+10000000000" address="+19999999999" subject="" encoding="plain">2
+        </sms>
+        <sms msgBox="inbox" date="2017-03-09T16:47:55.989Z" dateSent="2017-03-09T16:47:52.000Z" locked="false" seen="true"
+             read="true" address="+19999999999" subject="" encoding="plain">1
+        </sms>
+    </thread>
+</threads>
